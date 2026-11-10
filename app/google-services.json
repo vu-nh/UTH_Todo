@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "288736250202",
+    "project_id": "uth-todo-f3aff",
+    "storage_bucket": "uth-todo-f3aff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288736250202:android:adc12de636c2e3842a8b63",
+        "android_client_info": {
+          "package_name": "com.example.uth_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288736250202-r0g8en7dr7jnl5lh4gppahcaqas69c6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJuh24KVD-XIl_lO46v2_PG-o3QUVAMCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288736250202-r0g8en7dr7jnl5lh4gppahcaqas69c6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288736250202:android:75f6dfd2db05f5732a8b63",
+        "android_client_info": {
+          "package_name": "com.example.uthtodov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288736250202-cminh1nk6ljluu5p4bheqboqc4p2s2hg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uthtodov2",
+            "certificate_hash": "aaba9bfaad9f87f7e762c1b566aa977064b77e00"
+          }
+        },
+        {
+          "client_id": "288736250202-r0g8en7dr7jnl5lh4gppahcaqas69c6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJuh24KVD-XIl_lO46v2_PG-o3QUVAMCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288736250202-r0g8en7dr7jnl5lh4gppahcaqas69c6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
